@@ -41,7 +41,7 @@ TLP:White
 	No disponible.  
 
 	2.7. Dirección de correo electrónico  
-	La recepción de reportes y comunicaciones se realiza desde la cuenta cert@icic.gob.ar  
+	La recepción de reportes y comunicaciones se realiza desde la cuenta reportes@cert.ar  
 
 	2.8. Claves públicas y otra información de cifrado  
 	La clave PGP del CERT.ar tiene una validez anual y se generan en el mes de enero. La información de la clave se encuentra en https://github.com/cert-ar/PGP-Key  
@@ -58,6 +58,76 @@ TLP:White
 	El CERT.ar es miembro del CSIRTAmericas  
 	
 	2.11. Puntos de contacto para clientes  
+	El método para contactar con el CERT.ar es a través de la dirección de correo electrónico cert@icic.gob.ar. El horario de atención de es de 09:00 a 18:00hs de lunes a viernes.
+
+3. Constitución  
+	3.1. Misión  
+	Coordinar la gestión de incidentes de seguridad a nivel nacional y prestar asistencia en aquellos que afecten a las entidades y jurisdicciones del Sector Público Nacional y a las Infraestructuras Críticas de Información del país, declaradas como tales.
+		
+	3.2. Comunidad a la que brinda servicios  
+	La comunidad objetivo del CERT.ar es aquella conformada por Entidades y jurisdicciones del Sector Público Nacional definidas en el inciso a) del artículo 8° de la Ley Nº 24.156 y sus modificatorios y a las Infraestructuras Críticas de Información, declaradas como tales. Cumple además las funciones de CERT Coordinador a nivel Nacional.  
+https://www.boletinoficial.gob.ar/detalleAviso/primera/241077/20210222
+
+	3.3. Patrocinio y/o afiliación  
+	Dirección Nacional de Ciberseguridad - Secretaría de Innovación Pública - JEFATURA DE GABINETE DE MINISTROS. https://www.boletinoficial.gob.ar/detalleAviso/primera/241077/20210222
+
+	3.4. Autoridad  
+	El CERT.ar no tiene autoridad sobre su comunidad objetivo, todas las actividades se basan en relaciones de colaboración con otras entidades.
+
+4. Políticas  
+	4.1. Tipos de incidentes y nivel de soporte  
+	El CERT.ar proporciona un punto focal para la notificación de incidentes en el país, brindando la coordinación y asesoramiento técnico para las organizaciones involucradas en incidentes. Ver sección 3.1 para más detalles.
+	
+	4.2. Cooperación, interacción y divulgación de la información  
+	El CERT.ar considera muy importante la cooperación operativa y el intercambio de información entre los distintos Equipos de Respuesta a Incidentes y también con otras organizaciones nacionales e internacionales que puedan contribuir a sus servicios o hacer uso de ellos.  
+	
+	El CERT.ar trata toda la información como confidencial por defecto, pero utilizará la información compartida para la generación de Indicadores de Compromiso (IOCs) para ayudar a resolver los incidentes de seguridad. La información se podrá distribuir a otros equipos/organizaciones. La información se anonimizará siempre que sea posible.  
+	
+	El CERT.ar adopta el protocolo de señalización de intercambio de información (TLP). https://www.first.org/tlp/  
+	
+	El CERT.ar opera dentro del marco legal argentino.  
+
+	4.3. Comunicación y autenticación  
+	Para comunicaciones que no contengan información sensible, el CERT.ar utiliza metodos convencionales como el correo electrónico sin cifrar. Para información sensible se usará el cifrado PGP (ver sección 2.7 y 2.8)   
+	Para la autenticación de personas se podrá hacer uso de comunidades existentes, devolución de llamadas o bien reuniones personales.  
+
+5. Servicios  
+	5.1. Comunicaciones y Alertas  
+	Este servicio tiene como objetivo difundir información sobre vulnerabilidades de seguridad, alertas de intrusión, virus informáticos y proporcionar recomendaciones para abordar su remediación a los miembros de su comunidad objetivo.  
+
+	5.2. Respuesta de Incidentes  
+	El CERT.ar brindará asistencia a otros equipos de respuesta en el manejo de los aspectos técnicos y organizativos de la respuesta a incidentes. El nivel de soporte brindado por el CERT.ar variará de acuerdo a la severidad del incidente, impacto potencial o evaluado y los recursos del CERT.ar.  
+	Todos los incidentes serán considerados de prioridad normal a menos que estén etiquetados explícitamente como EMERGENCIA o URGENTE y aquellos señalizados con TLP:RED  
+	
+	5.3. Coordinación de Respuesta de Incidentes  
+	El CERT.ar fomenta una política por la cual los equipos se pueden poner en contacto directamente con el CSIRT o equipo de seguridad más específico posible, manteniendo a CERT.ar en la copia de la comunicación.  
+	De esta manera el CERT.ar podrá:  
+		Determinar si todas las organizaciones involucradas fueron contactadas;  
+		Facilitar el contacto con otras partes que pueden colaborar en la resolución del incidente;  
+		Ponerse en contacto con las organizaciones involucradas a fin de asistir en la gestión del incidente.  
+
+6. Formas de reporte de incidentes  
+	Ver sección 2.7  
+
+7. Disclaimer  
+	Se tomarán todas las precauciones en la preparación de la información, notificaciones y alertas. El CERT.ar no asume responsabilidad por errores u omisiones, o daños resultantes del uso de la información provista.  
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEocGPV+oHFQHvk6C1DlKU619260wFAmC07QoACgkQDlKU6192
+60zeXg/+JUC6Fh6fJBEOozV+EggOEefEgc3aGtDLuaSXQiY8TCBiHp43vn9u2PYO
+aFOrgAxucQEblyn5O6JdRYgmoACGnCGlr7YHkaWPMqYCVSHIz9ggPjzon6z3UT5O
+HDaPFajrz2Crs2rY5yFVvcMUzGcY62vW0l5xtjjdy1HKCUet9DGn8aLOukYJCYmh
+MOlP1gSvsECQLsiNUyDMmZvO2SWp0A3nst4CDrN69LYNkPIUGOgVFY+DH78rZGjS
+a5mxFs4UpyFzR6PN73GteMw254bde4xCyV/vieLyC9q6/DxQgzAkokBXQdhq7LDA
+UwjAqOmtx7lL4reDBhkZ6xvSv8SJq7+Z7b5nktItSGqS6/RO8Y5HuRuPII8enoz7
+YMgbXoeyGafuOPOax0DEqJ1H0NngX5vuPi7LxCQ7Zplqo/HwySUQcAHPh8r2xwDQ
+B8TZs7RKk7XrPNGasjdJjtTsgVYQ4i8PE9BsF51gPjevQu8NzpWCNyTdpWIue6M6
+b0uOQ1OgihLa1cIGj0W2V1kvtgPS344aljcPnCN0J+cw5WU18I3OUIvgP1mz+g6P
+hjFEa1UKh546avq4JCW8YdUuT6gs+ueAIqAp8GxUAT6mSJgD+m3zahN9eHraGXg7
+Z3p53KPNHwA6p5C/mCv+fteI3m3/8r7Viu4zbOT5zrf/cAtq3rE=
+=K73J
+-----END PGP SIGNATURE-----
+
 	El método para contactar con el CERT.ar es a través de la dirección de correo electrónico cert@icic.gob.ar. El horario de atención de es de 09:00 a 18:00hs de lunes a viernes.
 
 3. Constitución  
