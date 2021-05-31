@@ -58,7 +58,7 @@ TLP:White
 	El CERT.ar es miembro del CSIRTAmericas  
 	
 	2.11. Puntos de contacto para clientes  
-	El método para contactar con el CERT.ar es a través de la dirección de correo electrónico cert@icic.gob.ar. El horario de atención de es de 09:00 a 18:00hs de lunes a viernes.
+	El método para contactar con el CERT.ar es a través de la dirección de correo electrónico reportes@cert.ar. El horario de atención de es de 09:00 a 18:00hs de lunes a viernes.
 
 3. Constitución  
 	3.1. Misión  
@@ -113,17 +113,17 @@ https://www.boletinoficial.gob.ar/detalleAviso/primera/241077/20210222
 	Se tomarán todas las precauciones en la preparación de la información, notificaciones y alertas. El CERT.ar no asume responsabilidad por errores u omisiones, o daños resultantes del uso de la información provista.  
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEocGPV+oHFQHvk6C1DlKU619260wFAmC07QoACgkQDlKU6192
-60zeXg/+JUC6Fh6fJBEOozV+EggOEefEgc3aGtDLuaSXQiY8TCBiHp43vn9u2PYO
-aFOrgAxucQEblyn5O6JdRYgmoACGnCGlr7YHkaWPMqYCVSHIz9ggPjzon6z3UT5O
-HDaPFajrz2Crs2rY5yFVvcMUzGcY62vW0l5xtjjdy1HKCUet9DGn8aLOukYJCYmh
-MOlP1gSvsECQLsiNUyDMmZvO2SWp0A3nst4CDrN69LYNkPIUGOgVFY+DH78rZGjS
-a5mxFs4UpyFzR6PN73GteMw254bde4xCyV/vieLyC9q6/DxQgzAkokBXQdhq7LDA
-UwjAqOmtx7lL4reDBhkZ6xvSv8SJq7+Z7b5nktItSGqS6/RO8Y5HuRuPII8enoz7
-YMgbXoeyGafuOPOax0DEqJ1H0NngX5vuPi7LxCQ7Zplqo/HwySUQcAHPh8r2xwDQ
-B8TZs7RKk7XrPNGasjdJjtTsgVYQ4i8PE9BsF51gPjevQu8NzpWCNyTdpWIue6M6
-b0uOQ1OgihLa1cIGj0W2V1kvtgPS344aljcPnCN0J+cw5WU18I3OUIvgP1mz+g6P
-hjFEa1UKh546avq4JCW8YdUuT6gs+ueAIqAp8GxUAT6mSJgD+m3zahN9eHraGXg7
-Z3p53KPNHwA6p5C/mCv+fteI3m3/8r7Viu4zbOT5zrf/cAtq3rE=
-=K73J
+iQIzBAEBCAAdFiEERBDPXPHUV6JaFBeDgXmaAVCWuKYFAmC1AYQACgkQgXmaAVCW
+uKY1ng/+PPESCbXxNi5hzzfN+r5ZgZ/2pYEeA9lGGo3I3yndPLYocqu1WjChiGTo
+rnduLeRX0to8kYTE15QXRpRvtcYkoZj1sqJklYXcTDCJhUJuTawVIWUkEuBAP+8i
+Ot6hm9yan4UTEoKr1eA8U0QdwlyYAmx6y2E+rfgd14JyAU22PDERfvCUj3tuBhtc
+owh7oX9KzQCBEoKJeuHxReqO8dGVCYAm2z4nBta6+uGjzZ5rjFnnV9xd7w+n4gpL
+pqKS+eqnmL3SYfgtkRvPVrO+C71T4jY/jzB9cQGRyk8hzdOmH/TBeTYNxckhKld+
+5/jCJ+2pDasHY028CA/FVpObFmO7//ZZppzxOlzMiHoEa+3kv/DqMuWbJ0XzfEC3
+NS5/mnU9Px0/gitPgUD7QMQl0zd18IOXSPyGe1ZJDnwYbi+JYhp1VpcFWOei39+c
+f6RVpeYzfDmdDtgMvB9EJT6+1HXAku1Q+EaZyQL7rIq1UramLwnUUEhGV834y/uf
+rDxe7mgDWanukgBO1ptRndksuU4+mH5KiGEPVwjIGD+/a8+rAkP3Y1maxLUU5e7H
+xYq7ZYuo4tyryZblF89jEFKhNy0h6CnR3JtgtlsAcGOin1ixU+Owz4cZBu1rNW48
+Y2iw/VKgLMnN+LDIYmJVsJkYQrG4JsWBXkxiqHF1h8XOvCWQ9ZI=
+=QnQL
 -----END PGP SIGNATURE-----
