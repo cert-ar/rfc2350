@@ -1,129 +1,123 @@
------BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA256
-
 CERT.ar - RFC 2350  
 TLP:White  
 
-1. Información del documento  
-	1.1. Fecha de última actualización  
-	Versión 1.0 29/05/2021
+El documento que se redacta a continuación tiene como objeto identificar y describir funciones, acciones y servicios que realiza el Equipo de Respuesta ante Emergencias Informáticas nacional (CERT.ar), en el marco de la norma RFC- 2350.
+Dentro de la información que se menciona, se describe la estructura de la organización, la identificación del equipo, su composición y misión, así como también, el ámbito de actuación y los servicios prestados.
 
-	1.2. Lista de distribución  
-	No existe una lista de distribución para notificaciones de nuevas versiones de este documento.  
+1. INFORMACIÓN DEL DOCUMENTO
+	1.1. Fecha de la última actualización
+	Versión 1.1, publicada el 20 de mayo del 2023
 
-	1.3. Ubicación del documento  
-	La versión actual del documento se encuentra disponible en el sitio https://github.com/cert-ar
+	1.2. Lista de distribución para notificaciones
+	Los cambios a este documento no se distribuyen por una lista de correo. Cualquier pregunta o comentario específico, dirigirse por favor a la dirección de correo reportes@cert.ar.
 
-	1.4. Autenticación del documento  
-	Este documento ha sido firmado con la clave PGP del CERT.ar  
-	Ver sección 2.8 para más información.
+2. INFORMACIÓN DE CONTACTO
+	2.1. Nombre del equipo	
+	Equipo de Respuesta ante Emergencias Informáticas nacional (CERT.ar)
 
-2. Información de contacto  
-	2.1. Nombre del equipo  
-	CERT.ar: Centro Nacional de Respuesta a Incidentes Informáticos de Argentina.
+	2.2. Zona horaria
+	GMT-3 horas
 
-	2.2. Dirección  
-	CERT.ar  
-	Av. Roque Sáenz Peña 788 - piso 6  
-	(C1067AAC) Ciudad Autónoma de Buenos Aires  
-	Argentina
+	2.3. Otras telecomunicaciones	
+	No existen
 
-	2.3. Zona Horaria  
-	UTC-GMT-3
+	2.4. Correo electrónico
+	reportes@cert.ar
 
-	2.4. Número de teléfono  
-	No disponible.  
+	2.5. Otra información
+	La información general de los servicios proporcionados por el CERT.ar se encuentra publicada en https://argentina.gob.ar/cert-ar
 
-	2.5. Número de fax  
-	No disponible.  
+	El CERT.ar es miembro del FIRST: https://www.first.org/members/teams/cert-ar
 
-	2.6. Otras comunicaciones  
-	No disponible.  
+	El CERT.ar es miembro del CSIRTAmericas: https://csirtamericas.org/es/member_teams
 
-	2.7. Dirección de correo electrónico  
-	La recepción de reportes y comunicaciones se realiza desde la cuenta reportes@cert.ar  
-
-	2.8. Claves públicas y otra información de cifrado  
-	La clave PGP del CERT.ar tiene una validez anual y se generan en el mes de enero. La información de la clave se encuentra en https://github.com/cert-ar/PGP-Key  
-
-	2.9. Miembros del equipo  
-	Información reservada.  
-   
-	2.10. Otra información  
-	Información general sobre CERT.ar disponible en https://github.com/cert-ar/  
+	2.6. Puntos de contacto con el cliente
+	Por medio de correo electrónico a la dirección reportes@cert.ar
 	
-	El CERT.ar es miembro del FIRST, detalles en:  
-	https://www.first.org/members/teams/cert-ar  
+	Horario de Atención: El equipo de respuesta a incidentes está disponible en los siguientes horarios:
+
+		Consultas sobre servicios y reportes de incidentes: horario de oficina (9.00h-17.00h)
+		Incidentes catalogados con criticidad muy alta o crítica: 24x7x365.
 	
-	El CERT.ar es miembro del CSIRTAmericas  
+	2.7. Claves públicas y cifrado de información
+	El correo electrónico de contacto puede recibir información cifrada por medio de PGP. La clave pública asociada se encuentra en el siguiente link: https://github.com/cert-ar/PGP-Key
+
+3. CARTA
+	3.1. Misión 
+	El CERT.ar fue creado el 19 febrero del 2021, mediante la Disposición Administrativa 1/2021 de la Dirección Nacional de Ciberseguridad. Su misión es coordinar la gestión de incidentes de seguridad a nivel nacional y prestar asistencia en aquellos que afecten a las entidades y jurisdicciones del Sector Público Nacional, definidas en el inciso a) del artículo 8° de la Ley Nº 24.156 y sus modificatorios, y a las Infraestructuras Críticas de Información, declaradas como tales.
 	
-	2.11. Puntos de contacto para clientes  
-	El método para contactar con el CERT.ar es a través de la dirección de correo electrónico reportes@cert.ar. El horario de atención de es de 09:00 a 18:00hs de lunes a viernes.
-
-3. Constitución  
-	3.1. Misión  
-	Coordinar la gestión de incidentes de seguridad a nivel nacional y prestar asistencia en aquellos que afecten a las entidades y jurisdicciones del Sector Público Nacional y a las Infraestructuras Críticas de Información del país, declaradas como tales.
-		
-	3.2. Comunidad a la que brinda servicios  
-	La comunidad objetivo del CERT.ar es aquella conformada por Entidades y jurisdicciones del Sector Público Nacional definidas en el inciso a) del artículo 8° de la Ley Nº 24.156 y sus modificatorios y a las Infraestructuras Críticas de Información, declaradas como tales. Cumple además las funciones de CERT Coordinador a nivel Nacional.  
-https://www.boletinoficial.gob.ar/detalleAviso/primera/241077/20210222
-
-	3.3. Patrocinio y/o afiliación  
-	Dirección Nacional de Ciberseguridad - Secretaría de Innovación Pública - JEFATURA DE GABINETE DE MINISTROS. https://www.boletinoficial.gob.ar/detalleAviso/primera/241077/20210222
-
-	3.4. Autoridad  
-	El CERT.ar no tiene autoridad sobre su comunidad objetivo, todas las actividades se basan en relaciones de colaboración con otras entidades.
-
-4. Políticas  
-	4.1. Tipos de incidentes y nivel de soporte  
-	El CERT.ar proporciona un punto focal para la notificación de incidentes en el país, brindando la coordinación y asesoramiento técnico para las organizaciones involucradas en incidentes. Ver sección 3.1 para más detalles.
+	En la Disposición mencionada, se describe que el CERT.ar tiene las siguientes funciones:
 	
-	4.2. Cooperación, interacción y divulgación de la información  
-	El CERT.ar considera muy importante la cooperación operativa y el intercambio de información entre los distintos Equipos de Respuesta a Incidentes y también con otras organizaciones nacionales e internacionales que puedan contribuir a sus servicios o hacer uso de ellos.  
+	Administrar y gestionar toda la información sobre reportes de incidentes de seguridad en las entidades y jurisdicciones del Sector Público Nacional definidas en el inciso a) del artículo 8° de la Ley N° 24.156 y sus modificatorios.
 	
-	El CERT.ar trata toda la información como confidencial por defecto, pero utilizará la información compartida para la generación de Indicadores de Compromiso (IOCs) para ayudar a resolver los incidentes de seguridad. La información se podrá distribuir a otros equipos/organizaciones. La información se anonimizará siempre que sea posible.  
+	Asesorar técnicamente ante incidentes de seguridad en sistemas informáticos que reporten las entidades y jurisdicciones enumeradas más arriba.
+
+	Coordinar las acciones a seguir, ante incidentes de seguridad, con otros Programas y equipos de respuestas a incidentes de la República Argentina.
+
+	Contribuir a incrementar la capacidad de prevención, alerta, detección y recuperación ante incidentes de seguridad informática que puedan afectar activos de información críticos del país.
+
+	Interactuar y cooperar con equipos de similar naturaleza de otros países.
+
+	Llevar un registro de estadística y establecer métricas a nivel nacional.
+
+	Coordinar la gestión de incidentes de seguridad informática que afecten recursos críticos a nivel nacional. 
+
+	Impulsar la formación de capacidades de prevención, detección, alerta y recuperación para la respuesta ante incidentes de seguridad informática.
+
+	Cooperar con los gobiernos provinciales y de la Ciudad Autónoma de Buenos Aires en la gestión de incidentes de seguridad informática.
+
+	3.2. Comunidad atendida
+	Los incidentes atendidos por el CERT.ar son aquellos que afectan a sistemas de la administración pública nacional (inciso a) del artículo 8° de la Ley Nº 24.156 y sus modificatorios y a las Infraestructuras Críticas de Información, declaradas como tales). Cumple además las funciones de CERT Coordinador a nivel Nacional.
+
+	3.3. Patrocinio y/o afiliación
+	El CERT.ar es el Equipo de Respuesta ante Emergencias Informáticas nacional de la Dirección Nacional de Ciberseguridad, un organismo que depende de la Subsecretaría de Tecnologías de la Información de la Secretaría de Innovación Pública, de la Jefatura de Gabinete de Ministros Argentina.
+
+	3.4. Autoridad
+	El objetivo principal es la coordinación de la respuesta a incidentes y el manejo adecuado que deben tener los constituyentes de los mismos.
+
+	La autoridad del CERT.ar emana de las siguientes disposiciones:
+		Disposición 1/2021
+		Disposición 7/2021	
+	 	Decisión Administrativa 641/2021
+
+	El CERT.ar no tiene autoridad y/o responsabilidad sobre las infraestructuras tecnológicas de su comunidad objetivo. Todas las actividades se basan en relaciones de colaboración con otras entidades responsables de infraestructuras a nivel nacional e internacional.
+
+
+4. POLÍTICAS	
+	4.1. Tipos de incidentes y nivel de soporte
+	Los servicios prestados por el equipo CERT.ar proporcionan asesoramiento técnicoadministrativo para la resolución de incidentes de ciberseguridad. 
+	También se ofrecen otros servicios, como pueden ser realizar test de penetración, organización de ciber-ejercicios y entrenamientos, entre otros. Estos servicios pueden ser solicitados y el equipo los prestará de acuerdo a su disponibilidad.
+	Los incidentes se categorizan en función de sus características haciendo uso de la taxonomía empleada por el CERT.ar, la cual se basa en la taxonomía utilizada por INCIBE para la Clasificación de Incidentes de Seguridad.
+
+	4.2. Cooperación, interacción y divulgación de información
+	La información manejada por el CERT.ar es tratada con absoluta confidencialidad de acuerdo a las políticas y procedimientos para la gestión de incidentes establecidos por el organismo, así como por las políticas y normas de seguridad utilizadas para la protección de la información clasificada. 
+	De igual modo, toda la información suministrada al organismo será utilizada para ayudar a resolver incidentes de seguridad, y sólo se distribuirá a otros equipos y miembros según la necesidad específica y de forma anónima.
+	El CERT.ar considera muy importante la cooperación operativa y el intercambio de información entre los distintos Equipos de Respuesta a Incidentes y también con otras organizaciones nacionales e internacionales que puedan contribuir a sus servicios o hacer uso de ellos.
+	El CERT.ar adopta el protocolo de señalización de intercambio de información (TLP). https://www.first.org/tlp/
+
+	4.3. Comunicación y autenticación
+	El método de comunicación es el correo electrónico. No obstante, el equipo brinda contactos telefónicos para ser utilizados durante la asistencia del incidente. 
+
+5. SERVICIOS
+	La respuesta a incidentes proporciona disponibilidad 24/7 y generalmente incluye la evaluación de los informes entrantes sobre incidentes y el seguimiento de estos con otros CSIRT, ISP y sitios ("Coordinación de incidentes").
 	
-	El CERT.ar adopta el protocolo de señalización de intercambio de información (TLP). https://www.first.org/tlp/  
-	
-	El CERT.ar opera dentro del marco legal argentino.  
+	5.1 Clasificación del Incidente
+		Ayudamos a realizar la clasificación de acuerdo a la taxonomía utilizada por el equipo.
+	 	Evaluación y comparación del incidente con hechos históricos.
 
-	4.3. Comunicación y autenticación  
-	Para comunicaciones que no contengan información sensible, el CERT.ar utiliza metodos convencionales como el correo electrónico sin cifrar. Para información sensible se usará el cifrado PGP (ver sección 2.7 y 2.8)   
-	Para la autenticación de personas se podrá hacer uso de comunidades existentes, devolución de llamadas o bien reuniones personales.  
+	5.2. Coordinación de incidentes
+		Facilitar el contacto con otros actores que puedan estar involucrados.
+		Comunicarse con las partes interesadas.
+		Brindar soporte general para la coordinación durante la resolución del incidente
 
-5. Servicios  
-	5.1. Comunicaciones y Alertas  
-	Este servicio tiene como objetivo difundir información sobre vulnerabilidades de seguridad, alertas de intrusión, virus informáticos y proporcionar recomendaciones para abordar su remediación a los miembros de su comunidad objetivo.  
+	5.3. Resolución de incidentes
+		Brinda asesoramiento y soporte a la parte afectada para eliminar las vulnerabilidades o vectores de ataque, que causaron el incidente y brindar resiliencia y mayor protección a los sistemas afectados.
+		Evaluar las acciones relacionadas a la resolución del incidente.
+		Proporcionar asistencia en la interpretación de datos cuando sea necesario.
 
-	5.2. Respuesta de Incidentes  
-	El CERT.ar brindará asistencia a otros equipos de respuesta en el manejo de los aspectos técnicos y organizativos de la respuesta a incidentes. El nivel de soporte brindado por el CERT.ar variará de acuerdo a la severidad del incidente, impacto potencial o evaluado y los recursos del CERT.ar.  
-	Todos los incidentes serán considerados de prioridad normal a menos que estén etiquetados explícitamente como EMERGENCIA o URGENTE y aquellos señalizados con TLP:RED  
-	
-	5.3. Coordinación de Respuesta de Incidentes  
-	El CERT.ar fomenta una política por la cual los equipos se pueden poner en contacto directamente con el CSIRT o equipo de seguridad más específico posible, manteniendo a CERT.ar en la copia de la comunicación.  
-	De esta manera el CERT.ar podrá:  
-		Determinar si todas las organizaciones involucradas fueron contactadas;  
-		Facilitar el contacto con otras partes que pueden colaborar en la resolución del incidente;  
-		Ponerse en contacto con las organizaciones involucradas a fin de asistir en la gestión del incidente.  
+6. FORMULARIOS DE NOTIFICACIÓN DE INCIDENTES
+	El organismo posee en su página web https://www.argentina.gob.ar/jefatura/innovacionpublica/ssetic/direccion-nacional-ciberseguridad/cert-ar un formulario destinado al reporte público de posibles ciberataques, hallazgo de vulnerabilidades y/o posibles incidentes de ciberseguridad.
 
-6. Formas de reporte de incidentes  
-	Ver sección 2.7  
 
-7. Disclaimer  
-	Se tomarán todas las precauciones en la preparación de la información, notificaciones y alertas. El CERT.ar no asume responsabilidad por errores u omisiones, o daños resultantes del uso de la información provista.  
------BEGIN PGP SIGNATURE-----
-
-iQIzBAEBCAAdFiEERBDPXPHUV6JaFBeDgXmaAVCWuKYFAmC1AYQACgkQgXmaAVCW
-uKY1ng/+PPESCbXxNi5hzzfN+r5ZgZ/2pYEeA9lGGo3I3yndPLYocqu1WjChiGTo
-rnduLeRX0to8kYTE15QXRpRvtcYkoZj1sqJklYXcTDCJhUJuTawVIWUkEuBAP+8i
-Ot6hm9yan4UTEoKr1eA8U0QdwlyYAmx6y2E+rfgd14JyAU22PDERfvCUj3tuBhtc
-owh7oX9KzQCBEoKJeuHxReqO8dGVCYAm2z4nBta6+uGjzZ5rjFnnV9xd7w+n4gpL
-pqKS+eqnmL3SYfgtkRvPVrO+C71T4jY/jzB9cQGRyk8hzdOmH/TBeTYNxckhKld+
-5/jCJ+2pDasHY028CA/FVpObFmO7//ZZppzxOlzMiHoEa+3kv/DqMuWbJ0XzfEC3
-NS5/mnU9Px0/gitPgUD7QMQl0zd18IOXSPyGe1ZJDnwYbi+JYhp1VpcFWOei39+c
-f6RVpeYzfDmdDtgMvB9EJT6+1HXAku1Q+EaZyQL7rIq1UramLwnUUEhGV834y/uf
-rDxe7mgDWanukgBO1ptRndksuU4+mH5KiGEPVwjIGD+/a8+rAkP3Y1maxLUU5e7H
-xYq7ZYuo4tyryZblF89jEFKhNy0h6CnR3JtgtlsAcGOin1ixU+Owz4cZBu1rNW48
-Y2iw/VKgLMnN+LDIYmJVsJkYQrG4JsWBXkxiqHF1h8XOvCWQ9ZI=
-=QnQL
------END PGP SIGNATURE-----
+7. DESCARGOS DE RESPONSABILIDAD
+	El CERT.ar toma todas las precauciones al momento de preparar notificaciones e informes y no asume ninguna responsabilidad sobre el mal uso que se realice de la información contenida en este formulario.
