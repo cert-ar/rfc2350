@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
 CERT.ar - RFC 2350  
 TLP:White  
 
@@ -121,3 +124,10 @@ Dentro de la información que se menciona, se describe la estructura de la organ
 
 7. DESCARGOS DE RESPONSABILIDAD
 	El CERT.ar toma todas las precauciones al momento de preparar notificaciones e informes y no asume ninguna responsabilidad sobre el mal uso que se realice de la información contenida en este formulario.
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQRAIu9BYNgKyHwkBd83AbZUx7AQ5AUCZZQtPAAKCRA3AbZUx7AQ
+5FzLAQDX1QgftaaMTRGP0rHQL9YHXsW7P9LWWwLN5jqyHZXTogD/aPMsKHk0I4tW
+7wsBtJ0Hp9zgzK30grDMBdhC+OjYFAE=
+=3z6N
+-----END PGP SIGNATURE-----
