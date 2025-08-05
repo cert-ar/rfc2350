@@ -69,6 +69,8 @@ Dentro de la información que se menciona, se describe la estructura de la organ
 
 	Cooperar con los gobiernos provinciales y de la Ciudad Autónoma de Buenos Aires en la gestión de incidentes de seguridad informática.
 
+	A partir de la publicación del Decreto 274/2025 el CERT.ar, anteriormente adscrito a la Jefatura de Gabinete de Ministros, pasa a formar parte del Servicio de Inteligencia Nacional, más específicamente de la Agencia Federal de Ciberseguridad (AFC).
+	
 	3.2. Comunidad atendida
 	Los incidentes atendidos por el CERT.ar son aquellos que afectan a sistemas de la administración pública nacional (inciso a) del artículo 8° de la Ley Nº 24.156 y sus modificatorios y a las Infraestructuras Críticas de Información, declaradas como tales). Cumple además las funciones de CERT Coordinador a nivel Nacional.
 
