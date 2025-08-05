@@ -9,7 +9,7 @@ Dentro de la información que se menciona, se describe la estructura de la organ
 
 1. INFORMACIÓN DEL DOCUMENTO
 	1.1. Fecha de la última actualización
-	Versión 1.1, publicada el 20 de mayo del 2023
+	Versión 1.2, publicada el 5 de agosto del 2025
 
 	1.2. Lista de distribución para notificaciones
 	Los cambios a este documento no se distribuyen por una lista de correo. Cualquier pregunta o comentario específico, dirigirse por favor a la dirección de correo reportes@cert.ar.
